@@ -1,7 +1,7 @@
 Singapore Data Analysis
 
 
-Welcome to the GoGoCabs Data Analysis repository! This project includes a comprehensive dataset generated to analyze cab bookings over the past year in Singapore. The dataset, created using a Python script, contains various attributes that provide insights into GoGoCabs' operations and performance.
+Welcome to the Singapore Cab Data Analysis repository! This project includes a comprehensive dataset generated to analyze cab bookings over the past year in Singapore. The dataset, created using a Python script, contains various attributes that provide insights into GoGoCabs' operations and performance.
 
 Dataset Overview
 The dataset comprises 200,000 rows with columns such as Date, Time, Booking ID, Booking Status, Customer ID, Vehicle Type, Pickup Location, Drop Location, VTAT, CTAT, Reason for Cancellation, Cancelled Rides by Driver, Ride Distance, Driver Ratings, Customer Ratings, Booking Value, Incomplete Rides, Incomplete Rides Reason, Customer Demand, Vehicles Breakdown, and Other Issues.
